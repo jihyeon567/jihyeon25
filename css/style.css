@@ -1313,3 +1313,16 @@
   height: 165px;
   -webkit-text-stroke: 1px rgba(255, 255, 255, 0);
 }
+.r-e-s-t {
+  color: #ffffff;
+  text-align: center;
+  font-family: "NotoSansKr-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 443px;
+  top: 9341px;
+  width: 1050px;
+  height: 52px;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.5);
+}
